@@ -1,0 +1,8 @@
+{
+    "git.enabled": true,
+    "git.autoRepositoryDetection": false,
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        "hp"
+    ]
+}
